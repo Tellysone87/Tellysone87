@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Welcome to my Github</h2>
 
-<!--
-**Tellysone87/Tellysone87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Biography</h2>
 
-Here are some ideas to get you started:
+<p>My name is Shantel Williams and I am a aspiring IT professional. I am a pursuing a career in Computer programming, and I have completed several personal projects. I have experience in C#, C++, Java, sql, and Python.  I graduated from Macomb Community College in 2021 with an associate degree in Computer Science with an average gpa of 3.6. Click below to view my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><a href="https://github.com/Tellysone87/DriversEdProject">Telly's Drivers Ed<a></li>
+  <li><a href="https://github.com/Tellysone87/UnderPressure">Under Pressure<a></li>
+  <li><a href="https://github.com/Tellysone87/JustEscape">Just Escape<a></li>
+  <li><a href="https://github.com/Tellysone87/DataAnalysisProject">Safety Index<a></li>
+  <li><a href="https://github.com/Tellysone87/Simple-Weekly-Python-Challenges">Weekly code Challenges<a></li>
+</ul>
+
+<h3>Contact Me</h2>
+
+
