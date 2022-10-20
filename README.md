@@ -28,12 +28,12 @@
 |             | Cinema 4D |
 |             | Photo Shop |
 
-<h3>My most recent project</h2>
-![Driver ed gif short](https://user-images.githubusercontent.com/84033650/197013517-62d34530-48ed-4517-95fd-09d632936a82.gif)
-
-
+<h3>My most recent project - <a href="https://github.com/Tellysone87/DriversEdProject">Telly's Drivers Ed<a></h2>
     
     
+![Driver ed gif short cropped small](https://user-images.githubusercontent.com/84033650/197017360-f6d65d72-f984-47ff-aede-d299fd709a33.gif)
+
+
 <h3>Contact Me</h2>
 
 
