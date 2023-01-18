@@ -42,7 +42,7 @@ Email: <walterdtrt@aol.com><br>
 <a href="https://www.linkedin.com/in/shantel-williams-7a40b5a5/">LinkedIn<a><br>
   
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tellysone87&theme=radical)
+<!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tellysone87&theme=radical) --->
 
 
   
