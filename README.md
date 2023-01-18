@@ -2,7 +2,7 @@
 
 <h3>Biography</h2>
 
-<p>My name is Shantel Williams and I am a aspiring IT professional. I am a pursuing a career in Computer Science. I have completed several personal projects. I am currently working on a mobile application project using Java. I have experience in C#, C++, Java, sql, and Python.  I graduated from Macomb Community College in 2021 with an associate degree in Computer Science and an average gpa of 3.6. Click below to view my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
+<p>My name is Shantel Williams and I am a aspiring IT professional. I am a pursuing a career in Computer Science. I have completed several personal projects. I am currently working on a Roblox Studio project using Lua and blender. I have experience in C#, C++, Java, sql, and Python.  I graduated from Macomb Community College in 2021 with an associate degree in Computer Science and an average gpa of 3.6. Click below to view my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
 
 <ul>
   <li><a href="https://github.com/Tellysone87/DriversEdProject">Telly's Drivers Ed<a></li>
@@ -24,9 +24,9 @@
 | Java        | Eclipse       |
 | HTML        | UML        |
 | Markdown    | Intellij |
-| CSS          | MS Office Suite |
-|             | Cinema 4D |
-|             | Photo Shop |
+| CSS         | MS Office Suite |
+| Lua         | Cinema 4D |
+| Blender     | Photo Shop |
 
 <h3>My most recent project - <a href="https://github.com/Tellysone87/DriversEdProject">Telly's Drivers Ed<a></h2>
     
