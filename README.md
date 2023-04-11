@@ -5,6 +5,7 @@
 <p>My name is Shantel Williams and I am a aspiring IT professional. I am a pursuing a career in Computer Science. I have completed several personal projects. I am currently working on a Roblox Studio project using Lua and blender. I have experience in C#, C++, Java, sql, and Python.  I graduated from Macomb Community College in 2021 with an associate degree in Computer Science and an average gpa of 3.6. Click below to view my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
 
 <ul>
+  <li><a href="https://github.com/Tellysone87/packTrack">PackTrack<a><li>
   <li><a href="https://github.com/Tellysone87/DriversEdProject">Telly's Drivers Ed<a></li>
   <li><a href="https://github.com/Tellysone87/UnderPressure">Under Pressure<a></li>
   <li><a href="https://github.com/Tellysone87/JustEscape">Just Escape<a></li>
@@ -18,6 +19,7 @@
 | Languages      | Software |
 | ----------- | ----------- |
 | Python      | Tableau     |
+| JavaScript  | Visual Studio Code |
 | SQL         | Notepad++   |
 | C#          | Unity Game Engine |
 | C++         | Visual Studios |
