@@ -2,7 +2,7 @@
 
 <h3>Biography</h3>
 
-<p>My name is Shantel Williams and I am a aspiring IT professional. I am a pursuing a career in Computer Engineering.  I have experience in C#, C++, Java, javaScript, Jinja, Ajax, Api's, postgresSQL, sql, Css and Python. I have completed several personal projects. I most recently completed a Full-Stack Web Bootcamp though HackBright Academy. My finished project is called PackTrack you can reivew this project by following the link below. I also will be resuming a Roblox Studio project using Lua and blender. I graduated from Macomb Community College in 2021 with an associate degree in Computer Science and an average gpa of 3.6. Click below to view my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
+<p>My name is Shantel Williams and I am a aspiring IT professional. I graduated from Macomb Community College in 2021 with an associate degree in Computer Science and an average gpa of 3.6. I am a pursuing a career in Computer Engineering.  I have experience in C#, C++, Java, javaScript, Jinja, Ajax, Api's, postgresSQL, sql, Css and Python. I most recently completed a Full-Stack Web Bootcamp though HackBright Academy. My finished project is called PackTrack you can reivew this project by following the link below. I also will be resuming a Roblox Studio project using Lua and blender.  Click below to view many of my personal projects. Each project contains a read me file with a short summary. Thank you!</p>
 
 <ul>
   <li><a href="https://github.com/Tellysone87/packTrack">PackTrack<a></li>
