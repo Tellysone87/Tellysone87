@@ -10,7 +10,7 @@
   <li><a href="https://github.com/Tellysone87/UnderPressure">Under Pressure<a></li>
   <li><a href="https://github.com/Tellysone87/JustEscape">Just Escape<a></li>
   <li><a href="https://github.com/Tellysone87/DataAnalysisProject">Safety Index<a></li>
-  <li><a href="https://github.com/Tellysone87/Simple-Weekly-Python-Challenges">Weekly code Challenges<a></li>
+  <li><a href="https://github.com/Tellysone87/Data-in-motion-Challenges">Weekly code Challenges<a></li>
 </ul>
   
  <h3>Skills</h3>
